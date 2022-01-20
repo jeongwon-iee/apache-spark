@@ -15,7 +15,7 @@
   - 1.4 스파크의 현재와 미래
   - 1.5 스파크 실행하기
   - 1.6 정리
-- [Chapter 2. 스파크 간단히 살펴보기]()
+- [Chapter 2. 스파크 간단히 살펴보기](https://github.com/jeongwon-iee/apache-spark/blob/main/part-01/ch-02.md)
 - [Chapter 3. 스파크 기능 둘러보기]()
 
 &nbsp;
