@@ -16,6 +16,17 @@
   - 1.5 스파크 실행하기
   - 1.6 정리
 - [Chapter 2. 스파크 간단히 살펴보기](https://github.com/jeongwon-iee/apache-spark/blob/main/part-01/ch-02.md)
+  - 2.1 스파크의 기본 아키텍처
+  - 2.2 스파크의 다양한 언어 API
+  - 2.3 스파크의 API
+  - 2.4 스파크 시작하기
+  - 2.5 SparkSession
+  - 2.6 DataFrame
+  - 2.7 트랜스포메이션
+  - 2.8 액션
+  - 2.9 스파크 UI
+  - 2.10 종합 예제
+  - 2.11 정리
 - [Chapter 3. 스파크 기능 둘러보기]()
 
 &nbsp;
